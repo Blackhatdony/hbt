@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-link{
+ color: white;
+}
+.nav-link:hover{
+    color: rgb(247, 159, 44);
+    background-color: rgba(128, 128, 128, 0.774);
+}
+.section-1{
+    background-image: url(./img/showcase.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a:hover{
+    background-color: wheat;
+}
+h1{
+    font-size: 65px;
+}
+span{
+    color: rgb(247, 144, 59);
+}
+.section-2-2{
+    background-image: url(./img/test-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section-2-2 .box{
+    background-color: rgba(253, 198, 116, 0.932);
+}
